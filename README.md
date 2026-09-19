@@ -56,7 +56,7 @@ jupyter nbconvert --to notebook --execute --inplace airbnb_price_regression.ipyn
 
 ## Data
 
-[Inside Airbnb](http://insideairbnb.com/get-the-data/), Vancouver `listings.csv`, scraped 13–14 December 2023, licensed CC BY 4.0. The copy here keeps only the columns used in the analysis. It covers the City of Vancouver only, not the wider Lower Mainland.
+[Inside Airbnb](http://insideairbnb.com/get-the-data/), Vancouver `listings.csv`, scraped 13–14 December 2023, licensed CC BY 4.0. The copy here keeps only the columns used in the analysis. It covers the City of Vancouver only, not the wider Lower Mainland yet.
 
 ## Limitations
 
